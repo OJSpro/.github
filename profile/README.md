@@ -12,7 +12,7 @@ Welcome to the official GitHub organization for **OJSpro Technologies LLP, India
 
 ---
 
-## 🛠 Our Hero Products (Enterprise Solutions)
+## Our Hero Products (Enterprise Solutions)
 We build the technical infrastructure that modern journals require. Our core products are designed for extreme reliability, speed, and deep ecosystem integration.
 
 | Product | Description |
@@ -26,7 +26,7 @@ We build the technical infrastructure that modern journals require. Our core pro
 
 ---
 
-## 🍃 Free Plugins & Tools (Community Edition)
+## Free Plugins & Tools (Community Edition)
 We believe in supporting the scholarly community. We offer a suite of free, open-source plugins designed to help smaller journals and startup presses professionalize their workflow.
 
 | Plugin | Purpose & Impact |
@@ -46,25 +46,25 @@ We believe in supporting the scholarly community. We offer a suite of free, open
 
 ---
 
-## 🤖 Join the AI-First Innovation Lab
+## Join the AI-First Innovation Lab
 We don't just maintain code; we build the future of scholarly dissemination. We are actively seeking **Collaborators and Interns** who are passionate about AI-first development.
 
-### 🌟 For Developers & Collaborators
+### For Developers & Collaborators
 We are expanding our suite of plugins and themes for the scholarly industry. We want to work with you if you specialize in:
 * **AI/ML Integration:** Automating peer review, metadata extraction, and AI-driven SEO.
 * **Platform Synergy:** Building deep integrations between OJS/OMP and WordPress.
 * **High-Performance PHP:** Optimizing the Smarty-based architecture of scholarly platforms.
 
-### 🎓 Internship Program
+### Internship Program
 Are you an **AI-first developer**? We are looking for interns who understand how to leverage Machine Learning and Large Language Models to solve real-world publishing bottlenecks. You'll work on live projects that impact thousands of researchers worldwide.
 
 ---
 
-## 📬 Connect & Collaborate
+## Connect & Collaborate
 * **Business Inquiries:** [Contact OJSpro](https://ojspro.com/contact-us?utm_source=github&utm_medium=readme&utm_campaign=github)
 * **Careers/Internships:** [Apply Here](https://ojspro.com/careers?utm_source=github&utm_medium=readme&utm_campaign=github)
 * **Official Website:** [ojspro.com](https://ojspro.com?utm_source=github&utm_medium=readme&utm_campaign=github)
 
 ---
 **OJSpro Technologies LLP** - Empowering Academic Excellence through Technology. 
-📍 Ahmedabad, Gujarat, India.
+Ahmedabad, Gujarat, India.
