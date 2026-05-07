@@ -2,6 +2,10 @@
   <img src="logo.png" alt="OJSpro Technologies LLP Logo" width="300">
 </p>
 
+<p align="center">
+  <img src="repo_card.png" alt="OJSpro Technologies LLP Repo Card" width="100%">
+</p>
+
 # OJS Pro - The Engineering Hub for Modern Academic Publishing
 
 Welcome to the official GitHub organization for **OJSpro Technologies LLP, India**. We are an **AI-first solutions provider** dedicated to empowering individuals, institutions, and organizations to operate high-performance academic journals using OJS, OMP, and WordPress.
